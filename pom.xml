@@ -153,8 +153,8 @@
 	</build>
 	<distributionManagement>
         <repository>
-            <id>nexus-releases</id>
-            <url>http://3.88.184.252:8081/repository/maven-releases/</url>
+            <id>releases</id>
+            <url>http://50.19.28.56:8081/repository/maven-releases/</url>
         </repository>
     	</distributionManagement>
 </project>
